@@ -1,5 +1,3 @@
 # The Website for MDJCL - the center for Latin in Maryland
 
-#To Push Build Onto Github User Pages
-If git is not already initialized:
- ``git init;git remote add origin https://github.com/MDJCL/MDJCL.github.io.git;git add *;git commit -m "`date`";git push -f -u origin master``
+This is a snapshot of the MDJCL website (MDJCL.github.io) on May 2016 from when I was webmaster. This site won 4th place in the National Junior Classical League's website contest
